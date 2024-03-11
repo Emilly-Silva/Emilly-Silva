@@ -1,6 +1,6 @@
 Me chamo Êmilly Vitória, sou estudante da FATEC Profº Jessen Vidal - São José dos Campos. Me encontro no curso de Logística no período da manhã.
 
-I’m interested in aprender novas tecnologias diversas, usá-las a meu favor e/ou com equipes de trabalho, e consequentemente, aprimorá-las com todo o esforço e dedicação. Contribuindo assim para o crescimento do meu perfil profissional.
+Estou interessada em aprender novas tecnologias diversas, usá-las a meu favor e/ou com equipes de trabalho, e consequentemente, aprimorá-las com todo o esforço e dedicação. Contribuindo assim para o crescimento do meu perfil profissional.
 
 
 <!---
