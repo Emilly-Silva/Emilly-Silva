@@ -1,8 +1,7 @@
 <span align="center"> 
 
 ##  Oiê, bem vindo! 👋 
-
-
+</span>
 
 Me chamo Êmilly Vitória, tenho 19 anos e sou formada como Técnica em Administração pela ETEC São José dos Campos. Atualmente sou estudante da FATEC Profº Jessen Vidal e me encontro no curso de Logística no período da manhã.
 
