@@ -1,6 +1,6 @@
 <span align="center"> 
 
-##  Oiê, bem vindo! 👋 
+##  Oiê, bem vindo (a)! 👋 
 </span>
 
 Me chamo Êmilly Vitória, e sou formada como Técnica em Administração pela ETEC. Atualmente sou estudante da FATEC Profº Jessen Vidal e me encontro no curso de Logística no período da manhã.
